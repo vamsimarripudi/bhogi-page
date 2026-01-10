@@ -10,9 +10,14 @@
 
 }
 
-@media screen and (min-width: 320px) and (max-width:520px){
+
+@media screen and (max-width:768px){
   .main-div-container{
     background-image: url("https://assests.vamsimarripudi.tech/647C9F7C-F49A-4F8B-BD40-3F207B21F112.png");
+    background-size: cover;
+  }
+  .sub-text{
+    text-align:center;
   }
 }
 
