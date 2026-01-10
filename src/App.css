@@ -1,0 +1,24 @@
+*{
+  margin:0px;
+}
+
+.main-div-container{
+  background-image: url("https://assests.vamsimarripudi.tech/CE7BC3B5-5E28-4ADE-A4D1-C290381CCF24.png");
+  height:100vh;
+  width:100vw;
+  background-size: cover;
+
+}
+
+@media screen and (min-width: 320px) and (max-width:520px){
+  .main-div-container{
+    background-image: url("https://assests.vamsimarripudi.tech/647C9F7C-F49A-4F8B-BD40-3F207B21F112.png");
+  }
+}
+
+.main-heading{
+  color:goldenrod;
+  font-weight:bold;
+  font-size:25px;
+  padding-top:20px;
+}
