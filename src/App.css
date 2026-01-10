@@ -15,7 +15,7 @@
   .main-div-container{
     background-image: url("https://assests.vamsimarripudi.tech/647C9F7C-F49A-4F8B-BD40-3F207B21F112.png");
     background-size: cover;
-    height:auto;
+    height:100vh;
     width:auto;
   }
   .sub-text{
