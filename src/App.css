@@ -17,7 +17,7 @@
     background-size: contain;   /* fit whole image */
     background-repeat: no-repeat;
     background-position: center;
-    min-height: 100svh;  /* better for mobile */
+    min-height: 100vh;  /* better for mobile */
     width: 100%;
   }
 
