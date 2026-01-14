@@ -14,7 +14,7 @@
 @media screen and (max-width:768px){
   .main-div-container{
     background-image: url("https://assests.vamsimarripudi.tech/647C9F7C-F49A-4F8B-BD40-3F207B21F112.png");
-    background-size: contain;   /* fit whole image */
+    background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     min-height: 100vh;  /* better for mobile */
